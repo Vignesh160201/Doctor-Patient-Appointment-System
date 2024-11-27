@@ -25,7 +25,7 @@ function Home() {
     function getList() {
         var doctorName = localStorage.getItem('doctor-name')
         var localhostgetallappointment=`http://localhost:8083/appointment/getallappointment/${doctorName}`;
-        var webservicesgetallappointment=`https://appointment-e696.onrender.com/appointment/getallappointment/${doctorName}`
+        var webservicesgetallappointment=`https://appointment-w52f.onrender.com/appointment/getallappointment/${doctorName}`
         axios.get(webservicesgetallappointment)
             .then(result => {
                 localStorage.setItem('appointmentlist-details', JSON.stringify(result.data))
@@ -42,7 +42,7 @@ function Home() {
 
     }
     let localhostupdatestatus=`http://localhost:8082/doctor/updatestatus/${id}/${updatedStatus}/${remark}`;
-    let webserviceupdatestatus=`https://appointment-e696.onrender.com/appointment/updatestatus/${id}/${updatedStatus}/${remark}`;
+    let webserviceupdatestatus=`https://appointment-w52f.onrender.com/appointment/updatestatus/${id}/${updatedStatus}/${remark}`;
     function updateStatus() {
         const token = JSON.parse(localStorage.getItem('doctor-token'))
         axios.put(webserviceupdatestatus,{},
