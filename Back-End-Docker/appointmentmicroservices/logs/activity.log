@@ -1,0 +1,8 @@
+12:05:45.903 [main] INFO  c.e.a.AppointmentmicroservicesApplication - Starting AppointmentmicroservicesApplication v0.0.1-SNAPSHOT using Java 17.0.5 with PID 9656 (C:\deployment\appointmentmicroservices\appointmentmicroservice-0.0.1-SNAPSHOT.jar started by vigne in C:\deployment\appointmentmicroservices)
+12:05:45.903 [main] INFO  c.e.a.AppointmentmicroservicesApplication - No active profile set, falling back to 1 default profile: "default"
+12:05:49.747 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+12:05:50.269 [main] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
+12:05:50.269 [main] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+12:05:57.717 [main] INFO  c.e.a.AppointmentmicroservicesApplication - Started AppointmentmicroservicesApplication in 13.1 seconds (process running for 16.251)
+12:08:30.132 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+12:08:30.147 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
