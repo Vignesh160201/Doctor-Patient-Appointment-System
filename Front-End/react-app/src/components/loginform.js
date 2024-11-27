@@ -16,7 +16,7 @@ function Doctor() {
     const [show, setShow] = useState(false);
     const [isShow, setIsShow] = useState(false);
     let localhostauthenticate='http://localhost:8400/auth/authenticate';
-    let webloadauthenticatepath='https://auth-nohs.onrender.com/auth/authenticate';
+    let webloadauthenticatepath='https://auth-yd11.onrender.com/auth/authenticate';
     
 
     const handleSubmit = (e) => {
