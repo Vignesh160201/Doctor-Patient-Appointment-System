@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+
+.App {
+  background-color:transparent;
+  background:url('/src/assets/back.jpg') no-repeat;
+  background-size: 110%;
+  text-align: center;
+  height: auto; 
+
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 120vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.navbar_wrapper a{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-decoration:wavy;
+
+}
+.text-white {
+
+  background-color: transparent;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.text-white:hover{
+color: aqua;
+}
+
+.navbar-deco a{
+  border: #61dafb;
+  text-decoration: none;
+}
+
+.rightshift {
+  float: right;
+}
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.hospital{
+  background: url("./assets/back2.png");
+  width: 100%;
+}
+.bg{
+  background-color: #4C8394;
+
+}
+.bg1{
+  background: url('/src/assets/back2.png');
+  background-position: 100%;
+}
+.clr{
+  color: white;
+  font-family: 'Noto Serif';
+}
+.bt{
+  background-color: #14404E;
+  }
+  .form{
+    width:40%;
+     display:block;
+    justify-content: right; 
+    margin-left: 300px;
+    margin-top: 40px;
+    
+  }
+  .btn:hover { transform: scale(1.25);}
+
+  .label{
+    margin-left: 200px;
+  }
+  .btn-primary {
+    color: #212529;
+    background-color: #7cc;
+    border-color: #5bc2c2
+}
+.doctor {
+  height: 300px;
+  width: 100%;
+  position: relative;
+}
+
+.proverb {
+  position: absolute;
+  top: 180px;
+  color: black;
+  font-size: 30px;
+}
+
+.logo {
+height: 20px;
+width: 20px;
+margin-right: 5px;
+
+}
+
+.view {
+  margin-top: 20px;
+  margin-right: 70px;
+}
+
+.home:hover {
+  color: gray;
+  background-color: gray;
+  border-radius: 1px;
+  border-left: 1px;
+}
+.navbar-expand .navbar-nav .nav-link {
+  color: white;
+  padding-right: var(--bs-navbar-nav-link-padding-x);
+  padding-left: var(--bs-navbar-nav-link-padding-x);
+}
+
+.card{
+  background-color: white;
+  position: relative;
+  border-radius: 1em;
+  box-shadow: 0 0.188em 1.550em rgb(91, 114, 128);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+
+.h1appointment{
+  color: #282c34;
+}
+.footer{
+border-bottom: #5bc2c2;
+  bottom: auto; 
+  
+}

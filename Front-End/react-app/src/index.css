@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+body {
+  margin: 0;
+  font-family: 'Noto Serif';
+  background-color:transparent;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  background-color: #4C8394;
+}
