@@ -1,0 +1,15 @@
+# Exported from Render on 2024-11-28T01:00:04Z
+services:
+- type: web
+  name: doctor-patient-appointment-system
+  runtime: static
+  repo: https://github.com/Vignesh160201/Doctor-Patient-Appointment-System
+  buildCommand: npm install react-router-dom react-bootstrap axios dateformat reactjs-popup
+    bootstrap ;npm run build
+  staticPublishPath: build
+  rootDir: Front-End/react-app
+version: "1"
+
+git add render.yaml
+git commit -m "Add render.yaml"
+git push
