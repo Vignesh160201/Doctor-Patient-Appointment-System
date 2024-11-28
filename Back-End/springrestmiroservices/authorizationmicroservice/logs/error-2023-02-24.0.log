@@ -1,0 +1,2 @@
+2023-02-24 08::55::35 [http-nio-8400-exec-9] ERROR c.c.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS
+2023-02-24 14::41::27 [http-nio-8400-exec-3] ERROR c.c.a.e.GlobalExceptionHandler - INVALID_CREDENTIALS

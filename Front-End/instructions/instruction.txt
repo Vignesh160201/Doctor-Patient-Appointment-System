@@ -1,6 +1,3 @@
-src folder is mainly responsible for all thing ,npm command use
-
-
 To install in local we need 
 Requirements :
 nodejs software

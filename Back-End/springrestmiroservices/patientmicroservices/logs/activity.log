@@ -1,0 +1,231 @@
+12:13:24.932 [main] INFO  c.e.p.c.PatientControllerTests - Starting PatientControllerTests using Java 17.0.3 with PID 6340 (started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices)
+12:13:24.936 [main] INFO  c.e.p.c.PatientControllerTests - No active profile set, falling back to 1 default profile: "default"
+12:13:33.370 [main] INFO  c.e.p.c.PatientControllerTests - Started PatientControllerTests in 9.558 seconds (process running for 14.772)
+12:13:34.932 [main] INFO  c.e.p.controller.PatientController - viewAppointment() Started
+12:13:34.932 [main] INFO  c.e.p.controller.PatientController - Appointment = null
+12:13:34.948 [main] INFO  c.e.p.controller.PatientController - viewAppointment() End
+12:13:35.104 [main] INFO  c.e.p.PatientmicroservicesApplicationTests - Starting PatientmicroservicesApplicationTests using Java 17.0.3 with PID 6340 (started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices)
+12:13:35.104 [main] INFO  c.e.p.PatientmicroservicesApplicationTests - No active profile set, falling back to 1 default profile: "default"
+12:13:37.088 [main] INFO  c.e.p.PatientmicroservicesApplicationTests - Started PatientmicroservicesApplicationTests in 2.114 seconds (process running for 18.478)
+12:13:37.307 [main] INFO  c.e.p.PatientmicroservicesApplication - Starting PatientmicroservicesApplication using Java 17.0.3 with PID 6340 (started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices)
+12:13:37.307 [main] INFO  c.e.p.PatientmicroservicesApplication - No active profile set, falling back to 1 default profile: "default"
+12:13:39.884 [main] INFO  c.e.p.PatientmicroservicesApplication - Started PatientmicroservicesApplication in 2.791 seconds (process running for 21.277)
+12:21:02.814 [main] INFO  c.e.p.c.PatientControllerTests - Starting PatientControllerTests using Java 17.0.3 with PID 6692 (started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices)
+12:21:02.819 [main] INFO  c.e.p.c.PatientControllerTests - No active profile set, falling back to 1 default profile: "default"
+12:21:08.866 [main] INFO  c.e.p.c.PatientControllerTests - Started PatientControllerTests in 6.929 seconds (process running for 10.824)
+12:21:09.838 [main] INFO  c.e.p.controller.PatientController - viewAppointment() Started
+12:21:09.839 [main] INFO  c.e.p.controller.PatientController - Appointment = null
+12:21:09.845 [main] INFO  c.e.p.controller.PatientController - viewAppointment() End
+12:21:10.112 [main] INFO  c.e.p.PatientmicroservicesApplicationTests - Starting PatientmicroservicesApplicationTests using Java 17.0.3 with PID 6692 (started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices)
+12:21:10.113 [main] INFO  c.e.p.PatientmicroservicesApplicationTests - No active profile set, falling back to 1 default profile: "default"
+12:21:11.895 [main] INFO  c.e.p.PatientmicroservicesApplicationTests - Started PatientmicroservicesApplicationTests in 1.978 seconds (process running for 13.852)
+12:21:12.119 [main] INFO  c.e.p.PatientmicroservicesApplication - Starting PatientmicroservicesApplication using Java 17.0.3 with PID 6692 (started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices)
+12:21:12.119 [main] INFO  c.e.p.PatientmicroservicesApplication - No active profile set, falling back to 1 default profile: "default"
+12:21:15.102 [main] INFO  c.e.p.PatientmicroservicesApplication - Started PatientmicroservicesApplication in 3.196 seconds (process running for 17.06)
+12:23:05.329 [main] INFO  c.e.p.c.PatientControllerTests - Starting PatientControllerTests using Java 17.0.3 with PID 1940 (started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices)
+12:23:05.336 [main] INFO  c.e.p.c.PatientControllerTests - No active profile set, falling back to 1 default profile: "default"
+12:23:11.110 [main] INFO  c.e.p.c.PatientControllerTests - Started PatientControllerTests in 6.671 seconds (process running for 10.016)
+12:23:11.946 [main] INFO  c.e.p.controller.PatientController - viewAppointment() Started
+12:23:11.947 [main] INFO  c.e.p.controller.PatientController - Appointment = null
+12:23:11.951 [main] INFO  c.e.p.controller.PatientController - viewAppointment() End
+12:23:12.178 [main] INFO  c.e.p.PatientmicroservicesApplicationTests - Starting PatientmicroservicesApplicationTests using Java 17.0.3 with PID 1940 (started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices)
+12:23:12.179 [main] INFO  c.e.p.PatientmicroservicesApplicationTests - No active profile set, falling back to 1 default profile: "default"
+12:23:13.812 [main] INFO  c.e.p.PatientmicroservicesApplicationTests - Started PatientmicroservicesApplicationTests in 1.817 seconds (process running for 12.719)
+12:23:14.022 [main] INFO  c.e.p.PatientmicroservicesApplication - Starting PatientmicroservicesApplication using Java 17.0.3 with PID 1940 (started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices)
+12:23:14.023 [main] INFO  c.e.p.PatientmicroservicesApplication - No active profile set, falling back to 1 default profile: "default"
+12:23:16.213 [main] INFO  c.e.p.PatientmicroservicesApplication - Started PatientmicroservicesApplication in 2.39 seconds (process running for 15.119)
+12:24:55.226 [main] INFO  c.e.p.c.PatientControllerTests - Starting PatientControllerTests using Java 17.0.3 with PID 6364 (started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices)
+12:24:55.230 [main] INFO  c.e.p.c.PatientControllerTests - No active profile set, falling back to 1 default profile: "default"
+12:25:00.921 [main] INFO  c.e.p.c.PatientControllerTests - Started PatientControllerTests in 6.515 seconds (process running for 10.09)
+12:25:01.706 [main] INFO  c.e.p.controller.PatientController - viewAppointment() Started
+12:25:01.707 [main] INFO  c.e.p.controller.PatientController - Appointment = null
+12:25:01.710 [main] INFO  c.e.p.controller.PatientController - viewAppointment() End
+12:25:01.918 [main] INFO  c.e.p.PatientmicroservicesApplicationTests - Starting PatientmicroservicesApplicationTests using Java 17.0.3 with PID 6364 (started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices)
+12:25:01.919 [main] INFO  c.e.p.PatientmicroservicesApplicationTests - No active profile set, falling back to 1 default profile: "default"
+12:25:03.494 [main] INFO  c.e.p.PatientmicroservicesApplicationTests - Started PatientmicroservicesApplicationTests in 1.74 seconds (process running for 12.662)
+12:25:03.696 [main] INFO  c.e.p.PatientmicroservicesApplication - Starting PatientmicroservicesApplication using Java 17.0.3 with PID 6364 (started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices)
+12:25:03.697 [main] INFO  c.e.p.PatientmicroservicesApplication - No active profile set, falling back to 1 default profile: "default"
+12:25:05.969 [main] INFO  c.e.p.PatientmicroservicesApplication - Started PatientmicroservicesApplication in 2.466 seconds (process running for 15.137)
+12:26:26.092 [main] INFO  c.e.p.c.PatientControllerTests - Starting PatientControllerTests using Java 17.0.3 with PID 12552 (started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices)
+12:26:26.097 [main] INFO  c.e.p.c.PatientControllerTests - No active profile set, falling back to 1 default profile: "default"
+12:26:31.883 [main] INFO  c.e.p.c.PatientControllerTests - Started PatientControllerTests in 6.637 seconds (process running for 10.194)
+12:26:32.683 [main] INFO  c.e.p.controller.PatientController - viewAppointment() Started
+12:26:32.684 [main] INFO  c.e.p.controller.PatientController - Appointment = null
+12:26:32.689 [main] INFO  c.e.p.controller.PatientController - viewAppointment() End
+12:26:32.935 [main] INFO  c.e.p.PatientmicroservicesApplicationTests - Starting PatientmicroservicesApplicationTests using Java 17.0.3 with PID 12552 (started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices)
+12:26:32.936 [main] INFO  c.e.p.PatientmicroservicesApplicationTests - No active profile set, falling back to 1 default profile: "default"
+12:26:34.576 [main] INFO  c.e.p.PatientmicroservicesApplicationTests - Started PatientmicroservicesApplicationTests in 1.827 seconds (process running for 12.888)
+12:26:34.780 [main] INFO  c.e.p.PatientmicroservicesApplication - Starting PatientmicroservicesApplication using Java 17.0.3 with PID 12552 (started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices)
+12:26:34.781 [main] INFO  c.e.p.PatientmicroservicesApplication - No active profile set, falling back to 1 default profile: "default"
+12:26:36.962 [main] INFO  c.e.p.PatientmicroservicesApplication - Started PatientmicroservicesApplication in 2.376 seconds (process running for 15.272)
+12:27:44.821 [main] INFO  c.e.p.c.PatientControllerTests - Starting PatientControllerTests using Java 17.0.3 with PID 1368 (started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices)
+12:27:44.825 [main] INFO  c.e.p.c.PatientControllerTests - No active profile set, falling back to 1 default profile: "default"
+12:27:51.060 [main] INFO  c.e.p.c.PatientControllerTests - Started PatientControllerTests in 7.054 seconds (process running for 10.769)
+12:27:52.253 [main] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+12:27:52.264 [main] INFO  c.e.p.controller.PatientController - Appointment = null
+12:27:52.269 [main] INFO  c.e.p.controller.PatientController - makeAppointment() End
+12:27:52.308 [main] INFO  c.e.p.controller.PatientController - viewAppointment() Started
+12:27:52.310 [main] INFO  c.e.p.controller.PatientController - Appointment = null
+12:27:52.311 [main] INFO  c.e.p.controller.PatientController - viewAppointment() End
+12:27:52.564 [main] INFO  c.e.p.PatientmicroservicesApplicationTests - Starting PatientmicroservicesApplicationTests using Java 17.0.3 with PID 1368 (started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices)
+12:27:52.565 [main] INFO  c.e.p.PatientmicroservicesApplicationTests - No active profile set, falling back to 1 default profile: "default"
+12:27:54.552 [main] INFO  c.e.p.PatientmicroservicesApplicationTests - Started PatientmicroservicesApplicationTests in 2.196 seconds (process running for 14.261)
+12:27:54.774 [main] INFO  c.e.p.PatientmicroservicesApplication - Starting PatientmicroservicesApplication using Java 17.0.3 with PID 1368 (started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices)
+12:27:54.775 [main] INFO  c.e.p.PatientmicroservicesApplication - No active profile set, falling back to 1 default profile: "default"
+12:27:57.004 [main] INFO  c.e.p.PatientmicroservicesApplication - Started PatientmicroservicesApplication in 2.442 seconds (process running for 16.713)
+12:28:37.642 [main] INFO  c.e.p.c.PatientControllerTests - Starting PatientControllerTests using Java 17.0.3 with PID 6492 (started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices)
+12:28:37.646 [main] INFO  c.e.p.c.PatientControllerTests - No active profile set, falling back to 1 default profile: "default"
+12:28:43.687 [main] INFO  c.e.p.c.PatientControllerTests - Started PatientControllerTests in 6.913 seconds (process running for 10.5)
+12:28:44.515 [main] INFO  c.e.p.controller.PatientController - viewAppointment() Started
+12:28:44.516 [main] INFO  c.e.p.controller.PatientController - Appointment = null
+12:28:44.519 [main] INFO  c.e.p.controller.PatientController - viewAppointment() End
+12:28:44.730 [main] INFO  c.e.p.PatientmicroservicesApplicationTests - Starting PatientmicroservicesApplicationTests using Java 17.0.3 with PID 6492 (started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices)
+12:28:44.731 [main] INFO  c.e.p.PatientmicroservicesApplicationTests - No active profile set, falling back to 1 default profile: "default"
+12:28:46.465 [main] INFO  c.e.p.PatientmicroservicesApplicationTests - Started PatientmicroservicesApplicationTests in 1.899 seconds (process running for 13.279)
+12:28:46.664 [main] INFO  c.e.p.PatientmicroservicesApplication - Starting PatientmicroservicesApplication using Java 17.0.3 with PID 6492 (started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices)
+12:28:46.665 [main] INFO  c.e.p.PatientmicroservicesApplication - No active profile set, falling back to 1 default profile: "default"
+12:28:48.895 [main] INFO  c.e.p.PatientmicroservicesApplication - Started PatientmicroservicesApplication in 2.418 seconds (process running for 15.708)
+12:30:18.368 [main] INFO  c.e.p.c.PatientControllerTests - Starting PatientControllerTests using Java 17.0.3 with PID 11948 (started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices)
+12:30:18.372 [main] INFO  c.e.p.c.PatientControllerTests - No active profile set, falling back to 1 default profile: "default"
+12:30:24.489 [main] INFO  c.e.p.c.PatientControllerTests - Started PatientControllerTests in 6.957 seconds (process running for 10.569)
+12:30:25.318 [main] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+12:30:25.325 [main] INFO  c.e.p.controller.PatientController - Appointment = null
+12:30:25.328 [main] INFO  c.e.p.controller.PatientController - makeAppointment() End
+12:30:25.365 [main] INFO  c.e.p.controller.PatientController - viewAppointment() Started
+12:30:25.366 [main] INFO  c.e.p.controller.PatientController - Appointment = null
+12:30:25.367 [main] INFO  c.e.p.controller.PatientController - viewAppointment() End
+12:30:25.638 [main] INFO  c.e.p.PatientmicroservicesApplicationTests - Starting PatientmicroservicesApplicationTests using Java 17.0.3 with PID 11948 (started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices)
+12:30:25.639 [main] INFO  c.e.p.PatientmicroservicesApplicationTests - No active profile set, falling back to 1 default profile: "default"
+12:30:27.377 [main] INFO  c.e.p.PatientmicroservicesApplicationTests - Started PatientmicroservicesApplicationTests in 1.965 seconds (process running for 13.458)
+12:30:27.592 [main] INFO  c.e.p.PatientmicroservicesApplication - Starting PatientmicroservicesApplication using Java 17.0.3 with PID 11948 (started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices)
+12:30:27.593 [main] INFO  c.e.p.PatientmicroservicesApplication - No active profile set, falling back to 1 default profile: "default"
+12:30:29.972 [main] INFO  c.e.p.PatientmicroservicesApplication - Started PatientmicroservicesApplication in 2.585 seconds (process running for 16.053)
+12:30:42.224 [main] INFO  c.e.p.c.PatientControllerTests - Starting PatientControllerTests using Java 17.0.3 with PID 5872 (started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices)
+12:30:42.230 [main] INFO  c.e.p.c.PatientControllerTests - No active profile set, falling back to 1 default profile: "default"
+12:30:49.092 [main] INFO  c.e.p.c.PatientControllerTests - Started PatientControllerTests in 7.854 seconds (process running for 12.064)
+12:30:49.930 [main] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+12:30:49.937 [main] INFO  c.e.p.controller.PatientController - Appointment = null
+12:30:49.942 [main] INFO  c.e.p.controller.PatientController - makeAppointment() End
+12:30:49.978 [main] INFO  c.e.p.controller.PatientController - viewAppointment() Started
+12:30:49.979 [main] INFO  c.e.p.controller.PatientController - Appointment = null
+12:30:49.980 [main] INFO  c.e.p.controller.PatientController - viewAppointment() End
+12:30:50.217 [main] INFO  c.e.p.PatientmicroservicesApplicationTests - Starting PatientmicroservicesApplicationTests using Java 17.0.3 with PID 5872 (started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices)
+12:30:50.218 [main] INFO  c.e.p.PatientmicroservicesApplicationTests - No active profile set, falling back to 1 default profile: "default"
+12:30:52.100 [main] INFO  c.e.p.PatientmicroservicesApplicationTests - Started PatientmicroservicesApplicationTests in 2.075 seconds (process running for 15.072)
+12:30:52.336 [main] INFO  c.e.p.PatientmicroservicesApplication - Starting PatientmicroservicesApplication using Java 17.0.3 with PID 5872 (started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices)
+12:30:52.337 [main] INFO  c.e.p.PatientmicroservicesApplication - No active profile set, falling back to 1 default profile: "default"
+12:30:54.932 [main] INFO  c.e.p.PatientmicroservicesApplication - Started PatientmicroservicesApplication in 2.824 seconds (process running for 17.905)
+19:55:28.126 [restartedMain] INFO  c.e.p.PatientmicroservicesApplication - Starting PatientmicroservicesApplication using Java 17.0.3 with PID 2648 (C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices\target\classes started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices)
+19:55:28.152 [restartedMain] INFO  c.e.p.PatientmicroservicesApplication - No active profile set, falling back to 1 default profile: "default"
+19:55:41.468 [restartedMain] INFO  c.e.p.PatientmicroservicesApplication - Started PatientmicroservicesApplication in 14.937 seconds (process running for 17.958)
+20:06:08.610 [http-nio-8081-exec-2] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+20:06:09.086 [http-nio-8081-exec-2] INFO  c.e.p.controller.PatientController - Appointment = Appointment(appointmentId=1, patientName=ki, doctorName=Hemant, dateOfAppointment=2023-02-24, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=8072222084)
+20:06:09.088 [http-nio-8081-exec-2] INFO  c.e.p.controller.PatientController - makeAppointment() End
+08:57:15.764 [restartedMain] INFO  c.e.p.PatientmicroservicesApplication - Starting PatientmicroservicesApplication using Java 17.0.3 with PID 12264 (C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices\target\classes started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices)
+08:57:15.814 [restartedMain] INFO  c.e.p.PatientmicroservicesApplication - No active profile set, falling back to 1 default profile: "default"
+08:57:20.368 [restartedMain] INFO  c.e.p.PatientmicroservicesApplication - Started PatientmicroservicesApplication in 5.465 seconds (process running for 8.433)
+09:01:40.276 [http-nio-8081-exec-3] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+09:01:40.666 [http-nio-8081-exec-3] INFO  c.e.p.controller.PatientController - Appointment = Appointment(appointmentId=1, patientName=Vignesh  , doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=8072222084)
+09:01:40.666 [http-nio-8081-exec-3] INFO  c.e.p.controller.PatientController - makeAppointment() End
+09:01:48.525 [http-nio-8081-exec-4] INFO  c.e.p.controller.PatientController - viewAppointment() Started
+09:01:48.572 [http-nio-8081-exec-4] INFO  c.e.p.controller.PatientController - Appointment = Appointment(appointmentId=1, patientName=Vignesh  , doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=8072222084)
+09:01:48.572 [http-nio-8081-exec-4] INFO  c.e.p.controller.PatientController - viewAppointment() End
+09:04:55.888 [http-nio-8081-exec-8] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+09:04:55.903 [http-nio-8081-exec-8] INFO  c.e.p.controller.PatientController - Appointment = Appointment(appointmentId=2, patientName=Ram, doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Female, contactNo=8007222084)
+09:04:55.903 [http-nio-8081-exec-8] INFO  c.e.p.controller.PatientController - makeAppointment() End
+10:26:42.533 [http-nio-8081-exec-2] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+10:26:43.851 [http-nio-8081-exec-3] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+10:26:44.596 [http-nio-8081-exec-4] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+10:26:44.867 [http-nio-8081-exec-5] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+10:26:46.039 [http-nio-8081-exec-6] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+10:26:46.285 [http-nio-8081-exec-7] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+10:26:52.674 [http-nio-8081-exec-6] INFO  c.e.p.controller.PatientController - Appointment = Appointment(appointmentId=6, patientName=vignesh, doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Female, contactNo=8072222084)
+10:26:52.674 [http-nio-8081-exec-5] INFO  c.e.p.controller.PatientController - Appointment = Appointment(appointmentId=7, patientName=vignesh, doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Female, contactNo=8072222084)
+10:26:52.674 [http-nio-8081-exec-7] INFO  c.e.p.controller.PatientController - Appointment = Appointment(appointmentId=8, patientName=vignesh, doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Female, contactNo=8072222084)
+10:26:52.674 [http-nio-8081-exec-2] INFO  c.e.p.controller.PatientController - Appointment = Appointment(appointmentId=4, patientName=vignesh, doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Female, contactNo=8072222084)
+10:26:52.675 [http-nio-8081-exec-2] INFO  c.e.p.controller.PatientController - makeAppointment() End
+10:26:52.674 [http-nio-8081-exec-3] INFO  c.e.p.controller.PatientController - Appointment = Appointment(appointmentId=3, patientName=vignesh, doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Female, contactNo=8072222084)
+10:26:52.675 [http-nio-8081-exec-5] INFO  c.e.p.controller.PatientController - makeAppointment() End
+10:26:52.675 [http-nio-8081-exec-3] INFO  c.e.p.controller.PatientController - makeAppointment() End
+10:26:52.675 [http-nio-8081-exec-7] INFO  c.e.p.controller.PatientController - makeAppointment() End
+10:26:52.675 [http-nio-8081-exec-6] INFO  c.e.p.controller.PatientController - makeAppointment() End
+10:26:52.692 [http-nio-8081-exec-4] INFO  c.e.p.controller.PatientController - Appointment = Appointment(appointmentId=5, patientName=vignesh, doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Female, contactNo=8072222084)
+10:26:52.693 [http-nio-8081-exec-4] INFO  c.e.p.controller.PatientController - makeAppointment() End
+10:26:52.704 [http-nio-8081-exec-9] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+10:26:52.704 [http-nio-8081-exec-8] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+10:26:52.704 [http-nio-8081-exec-10] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+10:26:52.739 [http-nio-8081-exec-10] INFO  c.e.p.controller.PatientController - Appointment = Appointment(appointmentId=9, patientName=vignesh, doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Female, contactNo=8072222084)
+10:26:52.739 [http-nio-8081-exec-10] INFO  c.e.p.controller.PatientController - makeAppointment() End
+10:26:52.798 [http-nio-8081-exec-9] INFO  c.e.p.controller.PatientController - Appointment = Appointment(appointmentId=10, patientName=vignesh, doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Female, contactNo=8072222084)
+10:26:52.798 [http-nio-8081-exec-9] INFO  c.e.p.controller.PatientController - makeAppointment() End
+10:26:53.120 [http-nio-8081-exec-8] INFO  c.e.p.controller.PatientController - Appointment = Appointment(appointmentId=11, patientName=vignesh, doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Female, contactNo=8072222084)
+10:26:53.120 [http-nio-8081-exec-8] INFO  c.e.p.controller.PatientController - makeAppointment() End
+10:49:37.109 [http-nio-8081-exec-5] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+10:49:37.129 [http-nio-8081-exec-5] INFO  c.e.p.controller.PatientController - Appointment = Appointment(appointmentId=12, patientName=vignesh, doctorName=Hemant, dateOfAppointment=2023-03-02, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=9444025773)
+10:49:37.129 [http-nio-8081-exec-5] INFO  c.e.p.controller.PatientController - makeAppointment() End
+11:01:37.529 [http-nio-8081-exec-8] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+11:01:37.669 [http-nio-8081-exec-8] INFO  c.e.p.controller.PatientController - Appointment = Appointment(appointmentId=13, patientName=Vignesh, doctorName=Hemant, dateOfAppointment=2023-03-03, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=8072222084)
+11:01:37.669 [http-nio-8081-exec-8] INFO  c.e.p.controller.PatientController - makeAppointment() End
+11:02:31.429 [http-nio-8081-exec-4] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+11:02:32.182 [http-nio-8081-exec-4] INFO  c.e.p.controller.PatientController - Appointment = Appointment(appointmentId=14, patientName=vi, doctorName=Hemant, dateOfAppointment=2023-02-24, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=8072222084)
+11:02:32.182 [http-nio-8081-exec-4] INFO  c.e.p.controller.PatientController - makeAppointment() End
+11:02:32.183 [http-nio-8081-exec-7] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+11:02:32.555 [http-nio-8081-exec-7] INFO  c.e.p.controller.PatientController - Appointment = Appointment(appointmentId=15, patientName=vi, doctorName=Hemant, dateOfAppointment=2023-02-24, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=8072222084)
+11:02:32.555 [http-nio-8081-exec-7] INFO  c.e.p.controller.PatientController - makeAppointment() End
+14:14:20.017 [http-nio-8081-exec-5] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+14:14:20.141 [http-nio-8081-exec-6] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+14:14:21.119 [http-nio-8081-exec-5] INFO  c.e.p.controller.PatientController - Appointment = Appointment(appointmentId=1, patientName=Ram, doctorName=Vignesh, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=9444715916)
+14:14:21.119 [http-nio-8081-exec-6] INFO  c.e.p.controller.PatientController - Appointment = Appointment(appointmentId=2, patientName=Ram, doctorName=Vignesh, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=9444715916)
+14:14:21.119 [http-nio-8081-exec-5] INFO  c.e.p.controller.PatientController - makeAppointment() End
+14:14:21.119 [http-nio-8081-exec-6] INFO  c.e.p.controller.PatientController - makeAppointment() End
+14:14:47.460 [http-nio-8081-exec-8] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+14:14:47.488 [http-nio-8081-exec-8] INFO  c.e.p.controller.PatientController - Appointment = Appointment(appointmentId=3, patientName=Hari, doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=8072222084)
+14:14:47.489 [http-nio-8081-exec-8] INFO  c.e.p.controller.PatientController - makeAppointment() End
+14:15:17.283 [http-nio-8081-exec-7] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+14:15:17.298 [http-nio-8081-exec-7] INFO  c.e.p.controller.PatientController - Appointment = Appointment(appointmentId=4, patientName=Priya, doctorName=Vignesh, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=9444025773)
+14:15:17.298 [http-nio-8081-exec-7] INFO  c.e.p.controller.PatientController - makeAppointment() End
+14:18:22.495 [http-nio-8081-exec-1] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+14:18:22.937 [http-nio-8081-exec-1] INFO  c.e.p.controller.PatientController - Appointment = Appointment(appointmentId=1, patientName=Ram, doctorName=Vignesh, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=8072222084)
+14:18:22.938 [http-nio-8081-exec-1] INFO  c.e.p.controller.PatientController - makeAppointment() End
+14:42:16.047 [restartedMain] INFO  c.e.p.PatientmicroservicesApplication - Starting PatientmicroservicesApplication using Java 17.0.3 with PID 12244 (C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices\target\classes started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\patientmicroservices)
+14:42:16.050 [restartedMain] INFO  c.e.p.PatientmicroservicesApplication - No active profile set, falling back to 1 default profile: "default"
+14:42:24.776 [restartedMain] INFO  c.e.p.PatientmicroservicesApplication - Started PatientmicroservicesApplication in 9.754 seconds (process running for 11.065)
+14:42:56.983 [http-nio-8081-exec-3] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+14:42:57.403 [http-nio-8081-exec-3] INFO  c.e.p.controller.PatientController - Appointment = Appointment(appointmentId=1, patientName=Ram, doctorName=Vignesh, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=8072222084)
+14:42:57.406 [http-nio-8081-exec-3] INFO  c.e.p.controller.PatientController - makeAppointment() End
+14:43:43.854 [http-nio-8081-exec-4] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+14:43:43.871 [http-nio-8081-exec-4] INFO  c.e.p.controller.PatientController - Appointment = Appointment(appointmentId=2, patientName=Ravi, doctorName=Vignesh, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=8072222084)
+14:43:43.871 [http-nio-8081-exec-4] INFO  c.e.p.controller.PatientController - makeAppointment() End
+14:44:14.320 [http-nio-8081-exec-7] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+14:44:14.337 [http-nio-8081-exec-7] INFO  c.e.p.controller.PatientController - Appointment = Appointment(appointmentId=3, patientName=Hemant, doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=9444025773)
+14:44:14.337 [http-nio-8081-exec-7] INFO  c.e.p.controller.PatientController - makeAppointment() End
+14:45:08.969 [http-nio-8081-exec-1] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+14:45:08.992 [http-nio-8081-exec-1] INFO  c.e.p.controller.PatientController - Appointment = Appointment(appointmentId=4, patientName=Priya, doctorName=Sridevi, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Female, contactNo=9444715916)
+14:45:08.993 [http-nio-8081-exec-1] INFO  c.e.p.controller.PatientController - makeAppointment() End
+15:07:56.525 [http-nio-8081-exec-10] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+15:07:56.552 [http-nio-8081-exec-10] INFO  c.e.p.controller.PatientController - Appointment = Appointment(appointmentId=5, patientName=Harish, doctorName=Vignesh, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=9944025773)
+15:07:56.553 [http-nio-8081-exec-10] INFO  c.e.p.controller.PatientController - makeAppointment() End
+18:19:33.353 [restartedMain] INFO  c.e.p.PatientmicroservicesApplication - Starting PatientmicroservicesApplication using Java 17.0.3 with PID 23092 (C:\MFPE\BackEnd\patientmicroservices\target\classes started by vigne in C:\MFPE\BackEnd\patientmicroservices)
+18:19:33.375 [restartedMain] INFO  c.e.p.PatientmicroservicesApplication - No active profile set, falling back to 1 default profile: "default"
+18:20:01.318 [restartedMain] INFO  c.e.p.PatientmicroservicesApplication - Started PatientmicroservicesApplication in 30.974 seconds (process running for 36.524)
+18:36:48.904 [http-nio-8081-exec-3] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+18:36:49.427 [http-nio-8081-exec-4] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+18:36:53.228 [http-nio-8081-exec-5] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+18:36:58.427 [http-nio-8081-exec-5] INFO  c.e.p.controller.PatientController - Appointment = com.example.patientmicroservices.model.Appointment@674e6e61
+18:36:58.427 [http-nio-8081-exec-3] INFO  c.e.p.controller.PatientController - Appointment = com.example.patientmicroservices.model.Appointment@21d803b3
+18:36:58.427 [http-nio-8081-exec-4] INFO  c.e.p.controller.PatientController - Appointment = com.example.patientmicroservices.model.Appointment@2164848f
+18:36:58.430 [http-nio-8081-exec-5] INFO  c.e.p.controller.PatientController - makeAppointment() End
+18:36:58.430 [http-nio-8081-exec-3] INFO  c.e.p.controller.PatientController - makeAppointment() End
+18:36:58.430 [http-nio-8081-exec-4] INFO  c.e.p.controller.PatientController - makeAppointment() End
+18:39:43.861 [http-nio-8081-exec-9] INFO  c.e.p.controller.PatientController - viewAppointment() Started
+18:40:02.468 [http-nio-8081-exec-9] INFO  c.e.p.controller.PatientController - Appointment = com.example.patientmicroservices.model.Appointment@1afc17ac
+18:40:02.468 [http-nio-8081-exec-9] INFO  c.e.p.controller.PatientController - viewAppointment() End
+18:40:02.488 [http-nio-8081-exec-1] INFO  c.e.p.controller.PatientController - viewAppointment() Started
+18:40:02.498 [http-nio-8081-exec-1] INFO  c.e.p.controller.PatientController - Appointment = com.example.patientmicroservices.model.Appointment@24ecf998
+18:40:02.499 [http-nio-8081-exec-1] INFO  c.e.p.controller.PatientController - viewAppointment() End
+18:40:16.754 [http-nio-8081-exec-2] INFO  c.e.p.controller.PatientController - makeAppointment() Started
+18:40:16.949 [http-nio-8081-exec-2] INFO  c.e.p.controller.PatientController - Appointment = com.example.patientmicroservices.model.Appointment@2caa46ca
+18:40:16.949 [http-nio-8081-exec-2] INFO  c.e.p.controller.PatientController - makeAppointment() End
+18:40:25.351 [http-nio-8081-exec-4] INFO  c.e.p.controller.PatientController - viewAppointment() Started
+18:40:25.360 [http-nio-8081-exec-4] INFO  c.e.p.controller.PatientController - Appointment = com.example.patientmicroservices.model.Appointment@5f87161
+18:40:25.360 [http-nio-8081-exec-4] INFO  c.e.p.controller.PatientController - viewAppointment() End

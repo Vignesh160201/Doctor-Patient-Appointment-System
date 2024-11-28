@@ -1,3 +1,14 @@
+To install in local we need 
+Requirements :
+nodejs software
+
+command to create react apps
+
+npx create-react-app my-app
+cd my-app
+npm start
+
+Render deploy commands and configurations
 npm install react-router-dom react-bootstrap axios dateformat reactjs-popup bootstrap ;npm run build 
 this line wil be in Build command
 

@@ -1,0 +1,256 @@
+19:51:05.211 [restartedMain] INFO  c.e.a.AppointmentmicroservicesApplication - Starting AppointmentmicroservicesApplication using Java 17.0.3 with PID 2888 (C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\appointmentmicroservices\target\classes started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\appointmentmicroservices)
+19:51:05.216 [restartedMain] INFO  c.e.a.AppointmentmicroservicesApplication - No active profile set, falling back to 1 default profile: "default"
+19:51:13.056 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+19:51:13.806 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
+19:51:13.810 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+19:51:26.512 [restartedMain] INFO  c.e.a.AppointmentmicroservicesApplication - Started AppointmentmicroservicesApplication in 22.772 seconds (process running for 25.175)
+20:06:08.933 [http-nio-8083-exec-1] INFO  c.e.a.c.AppointmentController - makeAppointment() Started
+20:06:09.037 [http-nio-8083-exec-1] INFO  c.e.a.c.AppointmentController - Appointment = Appointment(appointmentId=1, patientName=ki, doctorName=Hemant, dateOfAppointment=2023-02-24, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=8072222084)
+20:06:09.038 [http-nio-8083-exec-1] INFO  c.e.a.c.AppointmentController - makeAppointment() End
+08:53:49.850 [restartedMain] INFO  c.e.a.AppointmentmicroservicesApplication - Starting AppointmentmicroservicesApplication using Java 17.0.3 with PID 10956 (C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\appointmentmicroservices\target\classes started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\appointmentmicroservices)
+08:53:49.868 [restartedMain] INFO  c.e.a.AppointmentmicroservicesApplication - No active profile set, falling back to 1 default profile: "default"
+08:53:53.489 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+08:53:53.911 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
+08:53:53.913 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+08:53:59.936 [restartedMain] INFO  c.e.a.AppointmentmicroservicesApplication - Started AppointmentmicroservicesApplication in 10.819 seconds (process running for 12.008)
+09:01:40.526 [http-nio-8083-exec-1] INFO  c.e.a.c.AppointmentController - makeAppointment() Started
+09:01:40.620 [http-nio-8083-exec-1] INFO  c.e.a.c.AppointmentController - Appointment = Appointment(appointmentId=1, patientName=Vignesh  , doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=8072222084)
+09:01:40.620 [http-nio-8083-exec-1] INFO  c.e.a.c.AppointmentController - makeAppointment() End
+09:01:48.525 [http-nio-8083-exec-2] INFO  c.e.a.c.AppointmentController - viewAppointment() Started
+09:01:48.572 [http-nio-8083-exec-2] INFO  c.e.a.c.AppointmentController - Appointment = Appointment(appointmentId=1, patientName=Vignesh  , doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=8072222084)
+09:01:48.572 [http-nio-8083-exec-2] INFO  c.e.a.c.AppointmentController - viewAppointment() End
+09:02:00.352 [http-nio-8083-exec-3] INFO  c.e.a.c.AppointmentController - getAllAppointment() Started
+09:02:00.463 [http-nio-8083-exec-3] INFO  c.e.a.c.AppointmentController - Appointments = [Appointment(appointmentId=1, patientName=Vignesh  , doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=8072222084)]
+09:02:00.463 [http-nio-8083-exec-3] INFO  c.e.a.c.AppointmentController - getAllAppointment() End
+09:02:00.479 [http-nio-8083-exec-4] INFO  c.e.a.c.AppointmentController - getAllAppointment() Started
+09:02:00.479 [http-nio-8083-exec-4] INFO  c.e.a.c.AppointmentController - Appointments = [Appointment(appointmentId=1, patientName=Vignesh  , doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=8072222084)]
+09:02:00.479 [http-nio-8083-exec-4] INFO  c.e.a.c.AppointmentController - getAllAppointment() End
+09:02:12.565 [http-nio-8083-exec-5] INFO  c.e.a.c.AppointmentController - updateStatus() Started
+09:02:12.581 [http-nio-8083-exec-5] INFO  c.e.a.c.AppointmentController - Appointment = Appointment(appointmentId=1, patientName=Vignesh  , doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Verified, remark=2 pills, age=12, gender=Male, contactNo=8072222084)
+09:02:12.581 [http-nio-8083-exec-5] INFO  c.e.a.c.AppointmentController - updateStatus() End
+09:02:12.627 [http-nio-8083-exec-6] INFO  c.e.a.c.AppointmentController - getAllAppointment() Started
+09:02:12.627 [http-nio-8083-exec-6] INFO  c.e.a.c.AppointmentController - Appointments = [Appointment(appointmentId=1, patientName=Vignesh  , doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Verified, remark=2 pills, age=12, gender=Male, contactNo=8072222084)]
+09:02:12.627 [http-nio-8083-exec-6] INFO  c.e.a.c.AppointmentController - getAllAppointment() End
+09:02:39.687 [http-nio-8083-exec-7] INFO  c.e.a.c.AppointmentController - updateStatus() Started
+09:02:39.687 [http-nio-8083-exec-7] INFO  c.e.a.c.AppointmentController - Appointment = Appointment(appointmentId=1, patientName=Vignesh  , doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Rejected, remark=Two pillls, age=12, gender=Male, contactNo=8072222084)
+09:02:39.687 [http-nio-8083-exec-7] INFO  c.e.a.c.AppointmentController - updateStatus() End
+09:02:39.703 [http-nio-8083-exec-8] INFO  c.e.a.c.AppointmentController - getAllAppointment() Started
+09:02:39.703 [http-nio-8083-exec-8] INFO  c.e.a.c.AppointmentController - Appointments = [Appointment(appointmentId=1, patientName=Vignesh  , doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Rejected, remark=Two pillls, age=12, gender=Male, contactNo=8072222084)]
+09:02:39.703 [http-nio-8083-exec-8] INFO  c.e.a.c.AppointmentController - getAllAppointment() End
+09:02:53.590 [http-nio-8083-exec-10] INFO  c.e.a.c.AppointmentController - updateStatus() Started
+09:02:53.590 [http-nio-8083-exec-10] INFO  c.e.a.c.AppointmentController - Appointment = Appointment(appointmentId=1, patientName=Vignesh  , doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Verified, remark=Two pills, age=12, gender=Male, contactNo=8072222084)
+09:02:53.590 [http-nio-8083-exec-10] INFO  c.e.a.c.AppointmentController - updateStatus() End
+09:02:53.607 [http-nio-8083-exec-1] INFO  c.e.a.c.AppointmentController - getAllAppointment() Started
+09:02:53.607 [http-nio-8083-exec-1] INFO  c.e.a.c.AppointmentController - Appointments = [Appointment(appointmentId=1, patientName=Vignesh  , doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Verified, remark=Two pills, age=12, gender=Male, contactNo=8072222084)]
+09:02:53.607 [http-nio-8083-exec-1] INFO  c.e.a.c.AppointmentController - getAllAppointment() End
+09:02:58.872 [http-nio-8083-exec-2] INFO  c.e.a.c.AppointmentController - getAllAppointment() Started
+09:02:58.872 [http-nio-8083-exec-2] INFO  c.e.a.c.AppointmentController - Appointments = [Appointment(appointmentId=1, patientName=Vignesh  , doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Verified, remark=Two pills, age=12, gender=Male, contactNo=8072222084)]
+09:02:58.872 [http-nio-8083-exec-2] INFO  c.e.a.c.AppointmentController - getAllAppointment() End
+09:02:58.872 [http-nio-8083-exec-3] INFO  c.e.a.c.AppointmentController - getAllAppointment() Started
+09:02:58.887 [http-nio-8083-exec-3] INFO  c.e.a.c.AppointmentController - Appointments = [Appointment(appointmentId=1, patientName=Vignesh  , doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Verified, remark=Two pills, age=12, gender=Male, contactNo=8072222084)]
+09:02:58.887 [http-nio-8083-exec-3] INFO  c.e.a.c.AppointmentController - getAllAppointment() End
+09:04:55.888 [http-nio-8083-exec-6] INFO  c.e.a.c.AppointmentController - makeAppointment() Started
+09:04:55.903 [http-nio-8083-exec-6] INFO  c.e.a.c.AppointmentController - Appointment = Appointment(appointmentId=2, patientName=Ram, doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Female, contactNo=8007222084)
+09:04:55.903 [http-nio-8083-exec-6] INFO  c.e.a.c.AppointmentController - makeAppointment() End
+10:26:48.779 [http-nio-8083-exec-2] INFO  c.e.a.c.AppointmentController - makeAppointment() Started
+10:26:48.779 [http-nio-8083-exec-3] INFO  c.e.a.c.AppointmentController - makeAppointment() Started
+10:26:48.779 [http-nio-8083-exec-1] INFO  c.e.a.c.AppointmentController - makeAppointment() Started
+10:26:48.779 [http-nio-8083-exec-8] INFO  c.e.a.c.AppointmentController - makeAppointment() Started
+10:26:48.779 [http-nio-8083-exec-10] INFO  c.e.a.c.AppointmentController - makeAppointment() Started
+10:26:48.779 [http-nio-8083-exec-9] INFO  c.e.a.c.AppointmentController - makeAppointment() Started
+10:26:52.335 [http-nio-8083-exec-3] INFO  c.e.a.c.AppointmentController - Appointment = Appointment(appointmentId=8, patientName=vignesh, doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Female, contactNo=8072222084)
+10:26:52.335 [http-nio-8083-exec-1] INFO  c.e.a.c.AppointmentController - Appointment = Appointment(appointmentId=7, patientName=vignesh, doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Female, contactNo=8072222084)
+10:26:52.335 [http-nio-8083-exec-8] INFO  c.e.a.c.AppointmentController - Appointment = Appointment(appointmentId=4, patientName=vignesh, doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Female, contactNo=8072222084)
+10:26:52.335 [http-nio-8083-exec-10] INFO  c.e.a.c.AppointmentController - Appointment = Appointment(appointmentId=5, patientName=vignesh, doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Female, contactNo=8072222084)
+10:26:52.335 [http-nio-8083-exec-9] INFO  c.e.a.c.AppointmentController - Appointment = Appointment(appointmentId=3, patientName=vignesh, doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Female, contactNo=8072222084)
+10:26:52.336 [http-nio-8083-exec-3] INFO  c.e.a.c.AppointmentController - makeAppointment() End
+10:26:52.335 [http-nio-8083-exec-2] INFO  c.e.a.c.AppointmentController - Appointment = Appointment(appointmentId=6, patientName=vignesh, doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Female, contactNo=8072222084)
+10:26:52.336 [http-nio-8083-exec-9] INFO  c.e.a.c.AppointmentController - makeAppointment() End
+10:26:52.336 [http-nio-8083-exec-1] INFO  c.e.a.c.AppointmentController - makeAppointment() End
+10:26:52.336 [http-nio-8083-exec-2] INFO  c.e.a.c.AppointmentController - makeAppointment() End
+10:26:52.336 [http-nio-8083-exec-10] INFO  c.e.a.c.AppointmentController - makeAppointment() End
+10:26:52.336 [http-nio-8083-exec-8] INFO  c.e.a.c.AppointmentController - makeAppointment() End
+10:26:52.729 [http-nio-8083-exec-4] INFO  c.e.a.c.AppointmentController - makeAppointment() Started
+10:26:52.734 [http-nio-8083-exec-4] INFO  c.e.a.c.AppointmentController - Appointment = Appointment(appointmentId=9, patientName=vignesh, doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Female, contactNo=8072222084)
+10:26:52.734 [http-nio-8083-exec-4] INFO  c.e.a.c.AppointmentController - makeAppointment() End
+10:26:52.789 [http-nio-8083-exec-5] INFO  c.e.a.c.AppointmentController - makeAppointment() Started
+10:26:52.792 [http-nio-8083-exec-5] INFO  c.e.a.c.AppointmentController - Appointment = Appointment(appointmentId=10, patientName=vignesh, doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Female, contactNo=8072222084)
+10:26:52.795 [http-nio-8083-exec-5] INFO  c.e.a.c.AppointmentController - makeAppointment() End
+10:26:53.113 [http-nio-8083-exec-6] INFO  c.e.a.c.AppointmentController - makeAppointment() Started
+10:26:53.116 [http-nio-8083-exec-6] INFO  c.e.a.c.AppointmentController - Appointment = Appointment(appointmentId=11, patientName=vignesh, doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Female, contactNo=8072222084)
+10:26:53.117 [http-nio-8083-exec-6] INFO  c.e.a.c.AppointmentController - makeAppointment() End
+10:49:37.125 [http-nio-8083-exec-5] INFO  c.e.a.c.AppointmentController - makeAppointment() Started
+10:49:37.127 [http-nio-8083-exec-5] INFO  c.e.a.c.AppointmentController - Appointment = Appointment(appointmentId=12, patientName=vignesh, doctorName=Hemant, dateOfAppointment=2023-03-02, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=9444025773)
+10:49:37.127 [http-nio-8083-exec-5] INFO  c.e.a.c.AppointmentController - makeAppointment() End
+11:01:37.632 [http-nio-8083-exec-1] INFO  c.e.a.c.AppointmentController - makeAppointment() Started
+11:01:37.666 [http-nio-8083-exec-1] INFO  c.e.a.c.AppointmentController - Appointment = Appointment(appointmentId=13, patientName=Vignesh, doctorName=Hemant, dateOfAppointment=2023-03-03, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=8072222084)
+11:01:37.666 [http-nio-8083-exec-1] INFO  c.e.a.c.AppointmentController - makeAppointment() End
+11:02:31.475 [http-nio-8083-exec-9] INFO  c.e.a.c.AppointmentController - makeAppointment() Started
+11:02:32.059 [http-nio-8083-exec-9] INFO  c.e.a.c.AppointmentController - Appointment = Appointment(appointmentId=14, patientName=vi, doctorName=Hemant, dateOfAppointment=2023-02-24, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=8072222084)
+11:02:32.059 [http-nio-8083-exec-9] INFO  c.e.a.c.AppointmentController - makeAppointment() End
+11:02:32.329 [http-nio-8083-exec-2] INFO  c.e.a.c.AppointmentController - makeAppointment() Started
+11:02:32.331 [http-nio-8083-exec-2] INFO  c.e.a.c.AppointmentController - Appointment = Appointment(appointmentId=15, patientName=vi, doctorName=Hemant, dateOfAppointment=2023-02-24, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=8072222084)
+11:02:32.331 [http-nio-8083-exec-2] INFO  c.e.a.c.AppointmentController - makeAppointment() End
+14:12:59.053 [restartedMain] INFO  c.e.a.AppointmentmicroservicesApplication - Starting AppointmentmicroservicesApplication using Java 17.0.3 with PID 9888 (C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\appointmentmicroservices\target\classes started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\appointmentmicroservices)
+14:12:59.056 [restartedMain] INFO  c.e.a.AppointmentmicroservicesApplication - No active profile set, falling back to 1 default profile: "default"
+14:13:07.604 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+14:13:08.313 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
+14:13:08.313 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+14:13:17.969 [restartedMain] INFO  c.e.a.AppointmentmicroservicesApplication - Started AppointmentmicroservicesApplication in 19.777 seconds (process running for 21.373)
+14:13:42.931 [http-nio-8083-exec-1] INFO  c.e.a.c.AppointmentController - getAllAppointment() Started
+14:13:43.326 [http-nio-8083-exec-1] INFO  c.e.a.c.AppointmentController - Appointments = []
+14:13:43.327 [http-nio-8083-exec-1] INFO  c.e.a.c.AppointmentController - getAllAppointment() End
+14:13:43.387 [http-nio-8083-exec-2] INFO  c.e.a.c.AppointmentController - getAllAppointment() Started
+14:13:43.390 [http-nio-8083-exec-2] INFO  c.e.a.c.AppointmentController - Appointments = []
+14:13:43.390 [http-nio-8083-exec-2] INFO  c.e.a.c.AppointmentController - getAllAppointment() End
+14:14:20.829 [http-nio-8083-exec-5] INFO  c.e.a.c.AppointmentController - makeAppointment() Started
+14:14:20.829 [http-nio-8083-exec-4] INFO  c.e.a.c.AppointmentController - makeAppointment() Started
+14:14:20.921 [http-nio-8083-exec-4] INFO  c.e.a.c.AppointmentController - Appointment = Appointment(appointmentId=2, patientName=Ram, doctorName=Vignesh, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=9444715916)
+14:14:20.921 [http-nio-8083-exec-5] INFO  c.e.a.c.AppointmentController - Appointment = Appointment(appointmentId=1, patientName=Ram, doctorName=Vignesh, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=9444715916)
+14:14:20.923 [http-nio-8083-exec-4] INFO  c.e.a.c.AppointmentController - makeAppointment() End
+14:14:20.923 [http-nio-8083-exec-5] INFO  c.e.a.c.AppointmentController - makeAppointment() End
+14:14:47.482 [http-nio-8083-exec-6] INFO  c.e.a.c.AppointmentController - makeAppointment() Started
+14:14:47.485 [http-nio-8083-exec-6] INFO  c.e.a.c.AppointmentController - Appointment = Appointment(appointmentId=3, patientName=Hari, doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=8072222084)
+14:14:47.485 [http-nio-8083-exec-6] INFO  c.e.a.c.AppointmentController - makeAppointment() End
+14:15:17.283 [http-nio-8083-exec-7] INFO  c.e.a.c.AppointmentController - makeAppointment() Started
+14:15:17.283 [http-nio-8083-exec-7] INFO  c.e.a.c.AppointmentController - Appointment = Appointment(appointmentId=4, patientName=Priya, doctorName=Vignesh, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=9444025773)
+14:15:17.283 [http-nio-8083-exec-7] INFO  c.e.a.c.AppointmentController - makeAppointment() End
+14:15:23.108 [http-nio-8083-exec-9] INFO  c.e.a.c.AppointmentController - getAllAppointment() Started
+14:15:23.122 [http-nio-8083-exec-9] INFO  c.e.a.c.AppointmentController - Appointments = [Appointment(appointmentId=1, patientName=Ram, doctorName=Vignesh, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=9444715916), Appointment(appointmentId=2, patientName=Ram, doctorName=Vignesh, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=9444715916), Appointment(appointmentId=4, patientName=Priya, doctorName=Vignesh, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=9444025773)]
+14:15:23.122 [http-nio-8083-exec-9] INFO  c.e.a.c.AppointmentController - getAllAppointment() End
+14:15:23.126 [http-nio-8083-exec-10] INFO  c.e.a.c.AppointmentController - getAllAppointment() Started
+14:15:23.126 [http-nio-8083-exec-10] INFO  c.e.a.c.AppointmentController - Appointments = [Appointment(appointmentId=1, patientName=Ram, doctorName=Vignesh, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=9444715916), Appointment(appointmentId=2, patientName=Ram, doctorName=Vignesh, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=9444715916), Appointment(appointmentId=4, patientName=Priya, doctorName=Vignesh, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=9444025773)]
+14:15:23.126 [http-nio-8083-exec-10] INFO  c.e.a.c.AppointmentController - getAllAppointment() End
+14:17:16.189 [restartedMain] INFO  c.e.a.AppointmentmicroservicesApplication - Starting AppointmentmicroservicesApplication using Java 17.0.3 with PID 7532 (C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\appointmentmicroservices\target\classes started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\appointmentmicroservices)
+14:17:16.192 [restartedMain] INFO  c.e.a.AppointmentmicroservicesApplication - No active profile set, falling back to 1 default profile: "default"
+14:17:21.706 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+14:17:22.362 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
+14:17:22.365 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+14:17:35.082 [restartedMain] INFO  c.e.a.AppointmentmicroservicesApplication - Started AppointmentmicroservicesApplication in 19.778 seconds (process running for 20.982)
+14:18:22.830 [http-nio-8083-exec-1] INFO  c.e.a.c.AppointmentController - makeAppointment() Started
+14:18:22.903 [http-nio-8083-exec-1] INFO  c.e.a.c.AppointmentController - Appointment = Appointment(appointmentId=1, patientName=Ram, doctorName=Vignesh, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=8072222084)
+14:18:22.904 [http-nio-8083-exec-1] INFO  c.e.a.c.AppointmentController - makeAppointment() End
+14:40:33.577 [restartedMain] INFO  c.e.a.AppointmentmicroservicesApplication - Starting AppointmentmicroservicesApplication using Java 17.0.3 with PID 8524 (C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\appointmentmicroservices\target\classes started by Vignesh in C:\Users\Vignesh\git\doctor-patient-appointment-system_mdu22csdaj001_pod-1\appointmentmicroservices)
+14:40:33.581 [restartedMain] INFO  c.e.a.AppointmentmicroservicesApplication - No active profile set, falling back to 1 default profile: "default"
+14:40:37.976 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+14:40:38.425 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
+14:40:38.430 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+14:40:46.247 [restartedMain] INFO  c.e.a.AppointmentmicroservicesApplication - Started AppointmentmicroservicesApplication in 13.583 seconds (process running for 14.78)
+14:42:57.263 [http-nio-8083-exec-1] INFO  c.e.a.c.AppointmentController - makeAppointment() Started
+14:42:57.360 [http-nio-8083-exec-1] INFO  c.e.a.c.AppointmentController - Appointment = Appointment(appointmentId=1, patientName=Ram, doctorName=Vignesh, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=8072222084)
+14:42:57.360 [http-nio-8083-exec-1] INFO  c.e.a.c.AppointmentController - makeAppointment() End
+14:43:43.866 [http-nio-8083-exec-2] INFO  c.e.a.c.AppointmentController - makeAppointment() Started
+14:43:43.868 [http-nio-8083-exec-2] INFO  c.e.a.c.AppointmentController - Appointment = Appointment(appointmentId=2, patientName=Ravi, doctorName=Vignesh, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=8072222084)
+14:43:43.869 [http-nio-8083-exec-2] INFO  c.e.a.c.AppointmentController - makeAppointment() End
+14:44:14.333 [http-nio-8083-exec-3] INFO  c.e.a.c.AppointmentController - makeAppointment() Started
+14:44:14.335 [http-nio-8083-exec-3] INFO  c.e.a.c.AppointmentController - Appointment = Appointment(appointmentId=3, patientName=Hemant, doctorName=Hemant, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=9444025773)
+14:44:14.335 [http-nio-8083-exec-3] INFO  c.e.a.c.AppointmentController - makeAppointment() End
+14:44:20.211 [http-nio-8083-exec-4] INFO  c.e.a.c.AppointmentController - getAllAppointment() Started
+14:44:20.324 [http-nio-8083-exec-4] INFO  c.e.a.c.AppointmentController - Appointments = [Appointment(appointmentId=1, patientName=Ram, doctorName=Vignesh, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=8072222084), Appointment(appointmentId=2, patientName=Ravi, doctorName=Vignesh, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=8072222084)]
+14:44:20.324 [http-nio-8083-exec-4] INFO  c.e.a.c.AppointmentController - getAllAppointment() End
+14:44:20.335 [http-nio-8083-exec-5] INFO  c.e.a.c.AppointmentController - getAllAppointment() Started
+14:44:20.340 [http-nio-8083-exec-5] INFO  c.e.a.c.AppointmentController - Appointments = [Appointment(appointmentId=1, patientName=Ram, doctorName=Vignesh, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=8072222084), Appointment(appointmentId=2, patientName=Ravi, doctorName=Vignesh, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=8072222084)]
+14:44:20.341 [http-nio-8083-exec-5] INFO  c.e.a.c.AppointmentController - getAllAppointment() End
+14:45:08.984 [http-nio-8083-exec-6] INFO  c.e.a.c.AppointmentController - makeAppointment() Started
+14:45:08.989 [http-nio-8083-exec-6] INFO  c.e.a.c.AppointmentController - Appointment = Appointment(appointmentId=4, patientName=Priya, doctorName=Sridevi, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Female, contactNo=9444715916)
+14:45:08.989 [http-nio-8083-exec-6] INFO  c.e.a.c.AppointmentController - makeAppointment() End
+14:45:38.183 [http-nio-8083-exec-8] INFO  c.e.a.c.AppointmentController - getAllAppointment() Started
+14:45:38.185 [http-nio-8083-exec-8] INFO  c.e.a.c.AppointmentController - Appointments = []
+14:45:38.186 [http-nio-8083-exec-8] INFO  c.e.a.c.AppointmentController - getAllAppointment() End
+14:45:38.194 [http-nio-8083-exec-9] INFO  c.e.a.c.AppointmentController - getAllAppointment() Started
+14:45:38.197 [http-nio-8083-exec-9] INFO  c.e.a.c.AppointmentController - Appointments = []
+14:45:38.197 [http-nio-8083-exec-9] INFO  c.e.a.c.AppointmentController - getAllAppointment() End
+15:07:56.545 [http-nio-8083-exec-5] INFO  c.e.a.c.AppointmentController - makeAppointment() Started
+15:07:56.550 [http-nio-8083-exec-5] INFO  c.e.a.c.AppointmentController - Appointment = Appointment(appointmentId=5, patientName=Harish, doctorName=Vignesh, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=9944025773)
+15:07:56.550 [http-nio-8083-exec-5] INFO  c.e.a.c.AppointmentController - makeAppointment() End
+15:08:02.480 [http-nio-8083-exec-9] INFO  c.e.a.c.AppointmentController - getAllAppointment() Started
+15:08:02.484 [http-nio-8083-exec-9] INFO  c.e.a.c.AppointmentController - Appointments = [Appointment(appointmentId=1, patientName=Ram, doctorName=Vignesh, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=8072222084), Appointment(appointmentId=2, patientName=Ravi, doctorName=Vignesh, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=8072222084), Appointment(appointmentId=5, patientName=Harish, doctorName=Vignesh, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=9944025773)]
+15:08:02.485 [http-nio-8083-exec-9] INFO  c.e.a.c.AppointmentController - getAllAppointment() End
+15:08:02.494 [http-nio-8083-exec-6] INFO  c.e.a.c.AppointmentController - getAllAppointment() Started
+15:08:02.497 [http-nio-8083-exec-6] INFO  c.e.a.c.AppointmentController - Appointments = [Appointment(appointmentId=1, patientName=Ram, doctorName=Vignesh, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=8072222084), Appointment(appointmentId=2, patientName=Ravi, doctorName=Vignesh, dateOfAppointment=2023-02-25, timeSlot=09am to 10am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=8072222084), Appointment(appointmentId=5, patientName=Harish, doctorName=Vignesh, dateOfAppointment=2023-02-25, timeSlot=10am to 11am, status=Pending, remark=wait for the confimation, age=12, gender=Male, contactNo=9944025773)]
+15:08:02.497 [http-nio-8083-exec-6] INFO  c.e.a.c.AppointmentController - getAllAppointment() End
+16:45:23.110 [restartedMain] INFO  c.e.a.AppointmentmicroservicesApplication - Starting AppointmentmicroservicesApplication using Java 17.0.3 with PID 12112 (C:\MFPE\BackEnd\appointmentmicroservices\target\classes started by vigne in C:\MFPE\BackEnd\appointmentmicroservices)
+16:45:23.113 [restartedMain] INFO  c.e.a.AppointmentmicroservicesApplication - No active profile set, falling back to 1 default profile: "default"
+16:45:26.795 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+16:45:27.112 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
+16:45:27.114 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+16:45:32.492 [restartedMain] INFO  c.e.a.AppointmentmicroservicesApplication - Started AppointmentmicroservicesApplication in 10.176 seconds (process running for 11.344)
+16:52:41.642 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+16:52:41.646 [Thread-7] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.
+16:52:42.317 [restartedMain] INFO  c.e.a.AppointmentmicroservicesApplication - Starting AppointmentmicroservicesApplication using Java 17.0.3 with PID 12112 (C:\MFPE\BackEnd\appointmentmicroservices\target\classes started by vigne in C:\MFPE\BackEnd\appointmentmicroservices)
+16:52:42.318 [restartedMain] INFO  c.e.a.AppointmentmicroservicesApplication - No active profile set, falling back to 1 default profile: "default"
+16:52:43.631 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Starting...
+16:52:43.637 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-2 - Added connection conn10: url=jdbc:h2:mem:testdb user=SA
+16:52:43.638 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-2 - Start completed.
+17:32:40.324 [restartedMain] INFO  c.e.a.AppointmentmicroservicesApplication - Starting AppointmentmicroservicesApplication using Java 17.0.3 with PID 6124 (C:\MFPE\BackEnd\appointmentmicroservices\target\classes started by vigne in C:\MFPE\BackEnd\appointmentmicroservices)
+17:32:40.475 [restartedMain] INFO  c.e.a.AppointmentmicroservicesApplication - No active profile set, falling back to 1 default profile: "default"
+17:34:28.838 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Starting...
+17:34:36.151 [restartedMain] INFO  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Added connection conn0: url=jdbc:h2:mem:testdb user=SA
+17:34:36.156 [restartedMain] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Start completed.
+17:35:27.917 [restartedMain] INFO  c.e.a.AppointmentmicroservicesApplication - Started AppointmentmicroservicesApplication in 189.205 seconds (process running for 224.914)
+18:36:55.882 [http-nio-8083-exec-3] INFO  c.e.a.c.AppointmentController - makeAppointment() Started
+18:36:55.882 [http-nio-8083-exec-1] INFO  c.e.a.c.AppointmentController - makeAppointment() Started
+18:36:55.882 [http-nio-8083-exec-4] INFO  c.e.a.c.AppointmentController - makeAppointment() Started
+18:36:58.318 [http-nio-8083-exec-3] INFO  c.e.a.c.AppointmentController - Appointment = com.example.appointmentmicroservices.entity.Appointment@1d14a475
+18:36:58.318 [http-nio-8083-exec-1] INFO  c.e.a.c.AppointmentController - Appointment = com.example.appointmentmicroservices.entity.Appointment@50ae95df
+18:36:58.318 [http-nio-8083-exec-3] INFO  c.e.a.c.AppointmentController - makeAppointment() End
+18:36:58.318 [http-nio-8083-exec-4] INFO  c.e.a.c.AppointmentController - Appointment = com.example.appointmentmicroservices.entity.Appointment@41d161fe
+18:36:58.318 [http-nio-8083-exec-1] INFO  c.e.a.c.AppointmentController - makeAppointment() End
+18:36:58.318 [http-nio-8083-exec-4] INFO  c.e.a.c.AppointmentController - makeAppointment() End
+18:39:49.237 [http-nio-8083-exec-7] INFO  c.e.a.c.AppointmentController - viewAppointment() Started
+18:40:02.468 [http-nio-8083-exec-7] INFO  c.e.a.c.AppointmentController - Appointment = com.example.appointmentmicroservices.entity.Appointment@32a11321
+18:40:02.468 [http-nio-8083-exec-7] INFO  c.e.a.c.AppointmentController - viewAppointment() End
+18:40:02.493 [http-nio-8083-exec-2] INFO  c.e.a.c.AppointmentController - viewAppointment() Started
+18:40:02.495 [http-nio-8083-exec-2] INFO  c.e.a.c.AppointmentController - Appointment = com.example.appointmentmicroservices.entity.Appointment@3a9d6cb3
+18:40:02.495 [http-nio-8083-exec-2] INFO  c.e.a.c.AppointmentController - viewAppointment() End
+18:40:16.767 [http-nio-8083-exec-5] INFO  c.e.a.c.AppointmentController - makeAppointment() Started
+18:40:16.949 [http-nio-8083-exec-5] INFO  c.e.a.c.AppointmentController - Appointment = com.example.appointmentmicroservices.entity.Appointment@4de7c183
+18:40:16.949 [http-nio-8083-exec-5] INFO  c.e.a.c.AppointmentController - makeAppointment() End
+18:40:25.354 [http-nio-8083-exec-6] INFO  c.e.a.c.AppointmentController - viewAppointment() Started
+18:40:25.358 [http-nio-8083-exec-6] INFO  c.e.a.c.AppointmentController - Appointment = com.example.appointmentmicroservices.entity.Appointment@e879c6e
+18:40:25.358 [http-nio-8083-exec-6] INFO  c.e.a.c.AppointmentController - viewAppointment() End
+18:54:23.423 [http-nio-8083-exec-4] INFO  c.e.a.c.AppointmentController - getAllAppointment() Started
+18:54:27.645 [http-nio-8083-exec-4] INFO  c.e.a.c.AppointmentController - Appointments = [com.example.appointmentmicroservices.entity.Appointment@7945b9a9]
+18:54:27.645 [http-nio-8083-exec-4] INFO  c.e.a.c.AppointmentController - getAllAppointment() End
+18:54:27.777 [http-nio-8083-exec-7] INFO  c.e.a.c.AppointmentController - getAllAppointment() Started
+18:54:27.780 [http-nio-8083-exec-7] INFO  c.e.a.c.AppointmentController - Appointments = [com.example.appointmentmicroservices.entity.Appointment@551ae91f]
+18:54:27.780 [http-nio-8083-exec-7] INFO  c.e.a.c.AppointmentController - getAllAppointment() End
+18:54:29.516 [http-nio-8083-exec-2] INFO  c.e.a.c.AppointmentController - getAllAppointment() Started
+18:54:29.521 [http-nio-8083-exec-2] INFO  c.e.a.c.AppointmentController - Appointments = [com.example.appointmentmicroservices.entity.Appointment@71109661, com.example.appointmentmicroservices.entity.Appointment@1d2b22b2, com.example.appointmentmicroservices.entity.Appointment@7a050eba]
+18:54:29.527 [http-nio-8083-exec-2] INFO  c.e.a.c.AppointmentController - getAllAppointment() End
+18:54:29.534 [http-nio-8083-exec-5] INFO  c.e.a.c.AppointmentController - getAllAppointment() Started
+18:54:29.539 [http-nio-8083-exec-5] INFO  c.e.a.c.AppointmentController - Appointments = [com.example.appointmentmicroservices.entity.Appointment@4d555adb, com.example.appointmentmicroservices.entity.Appointment@6af20dd8, com.example.appointmentmicroservices.entity.Appointment@cedbdc]
+18:54:29.539 [http-nio-8083-exec-5] INFO  c.e.a.c.AppointmentController - getAllAppointment() End
+18:54:51.269 [http-nio-8083-exec-9] INFO  c.e.a.c.AppointmentController - updateStatus() Started
+18:54:52.417 [http-nio-8083-exec-9] INFO  c.e.a.c.AppointmentController - Appointment = com.example.appointmentmicroservices.entity.Appointment@2e609926
+18:54:52.417 [http-nio-8083-exec-9] INFO  c.e.a.c.AppointmentController - updateStatus() End
+18:54:58.205 [http-nio-8083-exec-8] INFO  c.e.a.c.AppointmentController - updateStatus() Started
+18:54:58.205 [http-nio-8083-exec-8] INFO  c.e.a.c.AppointmentController - Appointment = com.example.appointmentmicroservices.entity.Appointment@25b50480
+18:54:58.205 [http-nio-8083-exec-8] INFO  c.e.a.c.AppointmentController - updateStatus() End
+18:55:00.292 [http-nio-8083-exec-10] INFO  c.e.a.c.AppointmentController - getAllAppointment() Started
+18:55:00.297 [http-nio-8083-exec-10] INFO  c.e.a.c.AppointmentController - Appointments = [com.example.appointmentmicroservices.entity.Appointment@18ed52fe, com.example.appointmentmicroservices.entity.Appointment@5013631, com.example.appointmentmicroservices.entity.Appointment@7709eecd]
+18:55:00.298 [http-nio-8083-exec-10] INFO  c.e.a.c.AppointmentController - getAllAppointment() End
+18:55:00.305 [http-nio-8083-exec-1] INFO  c.e.a.c.AppointmentController - getAllAppointment() Started
+18:55:00.311 [http-nio-8083-exec-1] INFO  c.e.a.c.AppointmentController - Appointments = [com.example.appointmentmicroservices.entity.Appointment@7bc1284, com.example.appointmentmicroservices.entity.Appointment@4035489d, com.example.appointmentmicroservices.entity.Appointment@6e5e1591]
+18:55:00.311 [http-nio-8083-exec-1] INFO  c.e.a.c.AppointmentController - getAllAppointment() End
+18:55:11.692 [http-nio-8083-exec-4] INFO  c.e.a.c.AppointmentController - getAllAppointment() Started
+18:55:11.695 [http-nio-8083-exec-4] INFO  c.e.a.c.AppointmentController - Appointments = [com.example.appointmentmicroservices.entity.Appointment@75013b1f]
+18:55:11.696 [http-nio-8083-exec-4] INFO  c.e.a.c.AppointmentController - getAllAppointment() End
+18:55:11.705 [http-nio-8083-exec-7] INFO  c.e.a.c.AppointmentController - getAllAppointment() Started
+18:55:11.709 [http-nio-8083-exec-7] INFO  c.e.a.c.AppointmentController - Appointments = [com.example.appointmentmicroservices.entity.Appointment@c38455a]
+18:55:11.709 [http-nio-8083-exec-7] INFO  c.e.a.c.AppointmentController - getAllAppointment() End
+18:55:19.215 [http-nio-8083-exec-2] INFO  c.e.a.c.AppointmentController - updateStatus() Started
+18:55:19.219 [http-nio-8083-exec-2] INFO  c.e.a.c.AppointmentController - Appointment = com.example.appointmentmicroservices.entity.Appointment@356ffb19
+18:55:19.219 [http-nio-8083-exec-2] INFO  c.e.a.c.AppointmentController - updateStatus() End
+18:55:22.980 [http-nio-8083-exec-5] INFO  c.e.a.c.AppointmentController - getAllAppointment() Started
+18:55:22.985 [http-nio-8083-exec-5] INFO  c.e.a.c.AppointmentController - Appointments = [com.example.appointmentmicroservices.entity.Appointment@75f373e0]
+18:55:22.985 [http-nio-8083-exec-5] INFO  c.e.a.c.AppointmentController - getAllAppointment() End
+18:55:22.991 [http-nio-8083-exec-6] INFO  c.e.a.c.AppointmentController - getAllAppointment() Started
+18:55:22.994 [http-nio-8083-exec-6] INFO  c.e.a.c.AppointmentController - Appointments = [com.example.appointmentmicroservices.entity.Appointment@316a581a]
+18:55:22.994 [http-nio-8083-exec-6] INFO  c.e.a.c.AppointmentController - getAllAppointment() End
+18:55:30.225 [http-nio-8083-exec-8] INFO  c.e.a.c.AppointmentController - getAllAppointment() Started
+18:55:30.228 [http-nio-8083-exec-8] INFO  c.e.a.c.AppointmentController - Appointments = [com.example.appointmentmicroservices.entity.Appointment@601d0a2]
+18:55:30.228 [http-nio-8083-exec-8] INFO  c.e.a.c.AppointmentController - getAllAppointment() End
+18:55:30.234 [http-nio-8083-exec-10] INFO  c.e.a.c.AppointmentController - getAllAppointment() Started
+18:55:30.237 [http-nio-8083-exec-10] INFO  c.e.a.c.AppointmentController - Appointments = [com.example.appointmentmicroservices.entity.Appointment@47e6f3b1]
+18:55:30.237 [http-nio-8083-exec-10] INFO  c.e.a.c.AppointmentController - getAllAppointment() End
