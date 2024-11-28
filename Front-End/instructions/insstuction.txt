@@ -1,0 +1,7 @@
+npm install react-router-dom react-bootstrap axios dateformat reactjs-popup bootstrap ;npm run build 
+this line wil be in Build command
+
+build
+this above word is in publish directory
+
+Auto deploy yes
